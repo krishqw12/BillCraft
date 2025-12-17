@@ -104,4 +104,4 @@ Deployed on Vercel | [Visit BillCraft](https://bill-craft-by-harshtayal.vercel.a
 
 
 ## Contact
-- For any queries or suggestions, feel free to reach out at: harshtayal2005@gmail.com
+- For any queries or suggestions, feel free to reach out at: Krishtayal0987@gmail.com
